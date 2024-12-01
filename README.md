@@ -1,10 +1,6 @@
 ✨ About Me:
 
-A Seasoned software developer with over 8 years of expertise in Java and related frameworks, specializing in the
-development of scalable and high-performance applications. Possessing a strong domain knowledge in banking,have
-successfully delivered innovative solutions tailored to the financial industry's requirements. Additionally, I have acquired
-extensive cloud expertise, enabling seamless integration of cloud technologies to optimize application performance and
-scalability.
+An avid software developer with over 8 years of expertise in Java and its related frameworks, specializing in creating scalable and high-performance applications. I possess strong domain knowledge in banking and have successfully delivered innovative solutions tailored to the financial industry's specific requirements. Additionally, I have extensive cloud expertise, enabling the seamless integration of cloud technologies to optimize application performance and scalability.
 
 Achievements/Certifications:
 

@@ -19,7 +19,8 @@ Git, Bitbucket, SVN
 Spring , Spring MVC, Spring boot, Spring Integration ,RESTFul web services, REST API, Hibernate, JPA,microservices, Spring AOP, Spring Batch                                                                                                                                  <h4> <image src="https://www.pngall.com/wp-content/uploads/2016/04/Database-Free-Download-PNG.png" style="width: 21px; height: 18px;" > DataBase </h4> MariaDB MYSQL,FLYWAY, SQL servrer, ORACLE, PostgreSQL                                                                                                                                                                                             <h4><image src="https://th.bing.com/th/id/R.6c984a35017b3f9ee9922352e0b93dd3?rik=2Qjqk1troDOA6Q&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f584809c9cef1014c0b5e4909.png&ehk=Qvs3a5dgHs53b83ylEwKLFxm3ZV7xp3vGE27FZxD2fc%3d&risl=&pid=ImgRaw&r=0" style="width: 21px; height: 18px;"></image> MiddleWare </h4>Apache Kafka
 
 <h2> 🌐 Socials: </h2>
-<a href="https://www.linkedin.com/in/satya-venkata-medhi-t">LinkedIn</a> <a href="mailto:satyamadhav44@gmail.com">Gmail</a>
+<h4><image src ="https://github.com/user-attachments/assets/3aac9e96-764e-4c01-9c75-aa480d1155f0" style="width: 200px; height: 195px;" ></image></h4>
+
 
 
 
